@@ -1,0 +1,16 @@
+Core features of Reactive Programming
+1. New Programming Paradigm
+2. Asynchronous & Non-Blocking
+3. Functional Style Code
+4. Data Flow as event driven stream
+5. Backpressure on data streams
+
+
+REST API = Client -> Controller -> Service
+
+It's an alternative to annotation based programming model.
+Functional Endpoint = Client -> Router -> Handler
+
+CURD operation using reactive mongodb driver
+
+
